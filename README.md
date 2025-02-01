@@ -2,7 +2,7 @@
 
 A simple pinball game created using o3-mini.
 
-Just download the html file and run in your browser.
+Just download the html file and open it in your browser.
 
 Enjoy!
 
