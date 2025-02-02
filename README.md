@@ -2,7 +2,9 @@
 
 A simple pinball game created using o3-mini.
 
-Just download the html file and open it in your browser.
+Play the game at: https://niravbhan.github.io/Pinball/
+
+Or you can download the html file and open it in your browser.
 
 Enjoy!
 
